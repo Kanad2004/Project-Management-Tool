@@ -44,3 +44,11 @@ next-env.d.ts
 
 # ESLint cache
 .eslintcache
+
+/lib/generated/prisma
+
+
+# Prisma
+.env
+prisma/*.db
+prisma/*.db-journal
